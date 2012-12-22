@@ -1,0 +1,1 @@
+io:fwrite("hello, world\n")
